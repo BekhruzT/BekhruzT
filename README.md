@@ -25,3 +25,5 @@ A customs paperwork automation tool for turning repeated declaration steps into 
 ### [Computer Vision Notebooks](https://github.com/BekhruzT/computer-vision-notebooks)
 
 Applied computer vision experiments covering object detection, segmentation, and model evaluation workflows.
+
+<!-- profile-readme -->
