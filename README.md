@@ -1,4 +1,4 @@
-## Hi, I'm Bekhruz
+# Hi, I'm Bekhruz
 
 I'm a software engineer with 3+ years of experience building production AI systems, backend services, and automation pipelines. My work sits mostly around Python, TypeScript, AWS, and AI-assisted product development, with a background in mechanical/aerospace engineering and numerical computation.
 
