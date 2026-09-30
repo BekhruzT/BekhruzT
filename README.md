@@ -10,6 +10,10 @@ I like owning products end to end: understanding the user problem, designing the
 
 A desktop transcription tool for turning spoken audio into editable text without relying on a heavy cloud workflow.
 
+### [Nexus](https://github.com/BekhruzT/agents)
+
+A Claude Code and Codex plugin that takes a GitHub issue to a reviewed pull request, with guard hooks and isolated worktrees keeping the agents on track.
+
 ### [Stele](https://github.com/BekhruzT/Stele)
 
 An AI video pipeline for turning a lesson plan into long-form narrated history and science videos.
