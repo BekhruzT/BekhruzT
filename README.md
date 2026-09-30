@@ -12,7 +12,7 @@ A desktop transcription tool for turning spoken audio into editable text without
 
 ### [Stele](https://github.com/BekhruzT/Stele)
 
-An AI video pipeline that turns a lesson plan into long-form narrated history and science videos, from story writing and editorial review to voice, images and an ffmpeg render.
+An AI video pipeline for turning a lesson plan into long-form narrated history and science videos.
 
 ### [Open Car Charging](https://github.com/BekhruzT/open-car-charging)
 
