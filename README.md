@@ -6,17 +6,13 @@ I like owning products end to end: understanding the user problem, designing the
 
 ## Projects
 
-### Stele (private)
-
-An AI video pipeline that turns a lesson plan into long-form narrated history and science videos, from story writing and editorial review to voice, images and an ffmpeg render.
-
 ### [Vox Native Transcription](https://github.com/BekhruzT/vox-native-transcription)
 
 A desktop transcription tool for turning spoken audio into editable text without relying on a heavy cloud workflow.
 
-### [Slides Smith](https://github.com/BekhruzT/slides-smith)
+### [Stele](https://github.com/BekhruzT/Stele)
 
-A PowerPoint assistant for generating and refining slides from structured inputs, aimed at reducing repetitive presentation work.
+An AI video pipeline that turns a lesson plan into long-form narrated history and science videos, from story writing and editorial review to voice, images and an ffmpeg render.
 
 ### [Open Car Charging](https://github.com/BekhruzT/open-car-charging)
 
