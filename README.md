@@ -12,7 +12,7 @@ A desktop transcription tool for turning spoken audio into editable text without
 
 ### [Nexus](https://github.com/BekhruzT/agents)
 
-A Claude Code and Codex plugin that takes a GitHub issue to a reviewed pull request, with guard hooks and isolated worktrees keeping the agents on track.
+Your AI software engineer: GitHub issue in, reviewed pull request out.
 
 ### [Stele](https://github.com/BekhruzT/Stele)
 
