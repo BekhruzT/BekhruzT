@@ -18,6 +18,10 @@ Your AI software engineer: GitHub issue in, reviewed pull request out.
 
 An AI video pipeline for turning a lesson plan into long-form narrated history and science videos.
 
+### [Talking Head GLB](https://github.com/BekhruzT/talking-head-glb)
+
+A browser-rendered GLB avatar that pairs generated speech with lip sync, facial expressions, and head movement.
+
 ### [Open Car Charging](https://github.com/BekhruzT/open-car-charging)
 
 A mobile prototype for finding and using EV charging points with a simpler driver-focused flow.
