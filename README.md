@@ -32,8 +32,4 @@ A mobile prototype for finding and using EV charging points with a simpler drive
 
 A customs paperwork automation tool for turning repeated declaration steps into a more structured workflow.
 
-### [Computer Vision Notebooks](https://github.com/BekhruzT/computer-vision-notebooks)
-
-Applied computer vision experiments covering object detection, segmentation, and model evaluation workflows.
-
 <!-- profile-readme -->
