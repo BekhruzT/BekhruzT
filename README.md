@@ -1,8 +1,10 @@
 # Hi, I'm Bekhruz
 
-I'm a software engineer with 3+ years of experience building production AI systems, backend services, and automation pipelines. My work sits mostly around Python, TypeScript, AWS, and AI-assisted product development, with a background in mechanical/aerospace engineering and numerical computation.
+![Experience: 4 years](https://img.shields.io/badge/Experience-4%20years-0D9488?style=flat)
 
-I like owning products end to end: understanding the user problem, designing the system, building the backend and interfaces, and getting it into a reliable production shape.
+- 🤖 **I build AI solutions** for real workflows, with a focus on automation and backend systems.
+- ⚡ **I'm an AI-first engineer** who turns customer pain points into products, from prototype to production.
+- 🛠️ **Stack:** Python · TypeScript · AWS · AI/ML
 
 ## Projects
 
